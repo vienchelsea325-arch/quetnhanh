@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name"> QR Scanner - Quét Nhanh</string>
+    <string name="slogan">Quét nhanh • Tạo dễ • Lưu tiện</string>
+
+    <string name="nav_home">Trang chủ</string>
+    <string name="nav_scanner">Quét mã</string>
+    <string name="nav_generator">Tạo mã</string>
+    <string name="nav_history">Lịch sử</string>
+    <string name="nav_settings">Cài đặt</string>
+
+    <!-- Onboarding -->
+    <string name="intro_title_1">Quét QR siêu nhanh</string>
+    <string name="intro_desc_1">Nhận diện mọi loại mã QR và Barcode chỉ trong 0.1 giây.</string>
+    <string name="intro_title_2">Tạo QR chuyên nghiệp</string>
+    <string name="intro_desc_2">Tự tạo mã QR cá nhân cho WiFi, Danh bạ, Website một cách dễ dàng.</string>
+    <string name="intro_title_3">Lưu lịch sử thông minh</string>
+    <string name="intro_desc_3">Quản lý toàn bộ dữ liệu quét và tạo mã một cách khoa học.</string>
+    <string name="intro_title_4">Hoạt động Offline</string>
+    <string name="intro_desc_4">An tâm sử dụng mọi lúc mọi nơi mà không cần kết nối Internet.</string>
+
+    <string name="btn_next">Tiếp theo</string>
+    <string name="btn_skip">Bỏ qua</string>
+    <string name="btn_get_started">Bắt đầu ngay</string>
+
+    <string name="home_welcome">Chào mừng bạn,</string>
+    <string name="home_search_hint">Tìm kiếm lịch sử...</string>
+
+    <string name="action_scan">Quét QR</string>
+    <string name="action_create_qr">Tạo QR</string>
+    <string name="action_create_barcode">Tạo Barcode</string>
+    <string name="action_gallery">Quét từ ảnh</string>
+    <string name="action_history">Lịch sử</string>
+    <string name="action_favorites">Yêu thích</string>
+</resources>

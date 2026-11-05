@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Q Shape -->
+    <path
+        android:fillColor="#FF5A1F"
+        android:pathData="M60,20C37.9,20 20,37.9 20,60s17.9,40 40,40c8.5,0 16.4,-2.6 22.9,-7.1l15.4,15.4 8.5,-8.5 -15.4,-15.4C97.4,76.4 100,68.5 100,60 100,37.9 82.1,20 60,20zM60,88c-15.5,0 -28,-12.5 -28,-28s12.5,-28 28,-28 28,12.5 28,28 -12.5,28 -28,28z" />
+    <!-- Magnifying Glass Handle internal -->
+    <path
+        android:fillColor="#FF5A1F"
+        android:pathData="M78,78l12,12" />
+</vector>
